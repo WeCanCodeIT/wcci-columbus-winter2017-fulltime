@@ -33,9 +33,7 @@
   - TDD with JUnit
   - object oriented concepts
     - abstraction
-    - polymorphism
     - encapsulation
-    - inheritance
   - packages and visibility modifiers: organizing code
 - Week 3
   - interfaces
@@ -46,9 +44,11 @@
     - `List`
     - `Set`
     - `Map`
+  - polymorphism
+  - inheritance
+- Week 4
   - exceptions
     - file I/O
-- Week 4
   - nested classes
 - Week 5
   - HTML
@@ -68,10 +68,10 @@
   - Spring Boot
 - Week 8
   - Relational databases
-    - CRUD
     - tables
     - relationships
-  - Java Persistence API (JPA)
+    - CRUD
+ - Java Persistence API (JPA)
     - Spring Data
 - Week 9
 - Weeks 10-12
