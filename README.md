@@ -27,52 +27,49 @@
   - conditionals
     - comparison operators
     - the ternary operator
+  - loops
+  - arrays
 - Week 2
-  - Packages and visibility modifiers: organizing code
-  - Conditionals
-  - Loop control
-  - Object oriented concepts
+  - TDD with JUnit
+  - object oriented concepts
     - abstraction
     - polymorphism
     - encapsulation
     - inheritance
+  - packages and visibility modifiers: organizing code
 - Week 3
-  - Arrays
-  - Interfaces
+  - interfaces
     - `Iterator`
     - `Iterable`
-  - Java Collections
+  - Java collections
     - `Collection`
     - `List`
     - `Set`
     - `Map`
-  - Building Classes - Methods and Properties
-  - Exceptions
+  - exceptions
     - file I/O
 - Week 4
-  - [Interfaces]
-  - Inheritance & polymorphism
   - nested classes
 - Week 5
   - HTML
   - CSS
   - Bootstrap
 - Week 6
+  - JavaScript
+  - jQuery
+  - AJAX
+  - JSON and RESTful APIs
+- Week 7
   - Dependency injection
     - Test doubles
     - Testing with mocks (Schools of TDD)
   - MVC
-- Week 7
+- Week 8
   - Relational databases
     - CRUD
     - tables
     - relationships
   - Java Persistence API (JPA)
-- Week 8
-  - JavaScript
-  - jQuery
-  - AJAX
-  - JSON and APIs
 - Week 9
 - Weeks 10-12
   - Scrum
