@@ -64,12 +64,15 @@
     - Test doubles
     - Testing with mocks (Schools of TDD)
   - MVC
+    - Spring MVC
+  - Spring Boot
 - Week 8
   - Relational databases
     - CRUD
     - tables
     - relationships
   - Java Persistence API (JPA)
+    - Spring Data
 - Week 9
 - Weeks 10-12
   - Scrum
