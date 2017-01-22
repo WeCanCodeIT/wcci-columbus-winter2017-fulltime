@@ -1,5 +1,6 @@
 # Week 1
-## Monday
+## Monday, January 23rd
+[What happened in history on January 23rd?](https://en.wikipedia.org/wiki/January_23#Events)
 - Team Building: "Hello, Team!"
 - Introduction to Eclipse
   - workspaces
@@ -10,7 +11,8 @@
 - Create a [github](https://github.com) account. [*Note: This will become your portfolio. Use a name that can be taken seriously, please.*]
 ### References
 - The Eclipse help system (Help->Help Contents) from within Eclipse
-## Tuesday
+## Tuesday, January 24th
+[What happened in history on January 24th?](https://en.wikipedia.org/wiki/January_24#Events)
 - Git and github
   - Why is version control important?
 ### Homework
