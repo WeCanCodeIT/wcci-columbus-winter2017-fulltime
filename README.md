@@ -29,7 +29,9 @@
     - the ternary operator
   - loops
   - arrays
+  - Git and github
 - Week 2
+  - Gradle
   - TDD with JUnit
   - object oriented concepts
     - abstraction
