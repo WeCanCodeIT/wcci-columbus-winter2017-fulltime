@@ -29,10 +29,13 @@
     - the ternary operator
   - loops
   - arrays
+  - IDEs
+    - Eclipse
   - Git and github
 - Week 2
   - Gradle
   - TDD with JUnit
+    - Moreunit plugin for Eclipse
   - object oriented concepts
     - abstraction
     - encapsulation
