@@ -19,14 +19,13 @@
       - constructors: methods that create objects
     - variables: holding onto things
   - primitives
+  - the essential JDK type: String: [tutorialspoint String tutorial](https://www.tutorialspoint.com/java/java_strings.htm)
+  - literals
+    - constants (the `final` keyword)
   - essential operators
     - assignment
     - arithmetic
     - logical
-  - literals
-    - constants (the `final` keyword)
-  - essential JDK types
-    - String: [tutorialspoint String tutorial](https://www.tutorialspoint.com/java/java_strings.htm)
   - conditionals
     - comparison operators
     - the ternary operator
@@ -150,7 +149,7 @@ This repository will contain (links to) useful resources, such as code developed
 - [The Spring Getting Started Guides, Topical Guides, and Tutorials](https://spring.io/guides). Spring.io.
 
 ### Git
-- [GitHub Guides](https://guides.github.com/)
+- [GitHub Guides](https://guides.github.com/). github.
 - Chacon, Scott and Ben Straub. [Pro Git](https://git-scm.com/book/en/v2). Apress.
 
 
