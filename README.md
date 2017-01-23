@@ -10,10 +10,13 @@
 # Weekly Breakdown
 
 - Week 1
+  - The Java ecosystem
+    - JDKs, JVMs, JREs -- that's a lot of letters
   - basic building blocks
     - classes: code blueprints
     - objects: built from the blueprints
     - methods: sending messages to objects
+    - constructors: methods that create objects
     - variables
   - primitives
   - essential operators
@@ -33,9 +36,11 @@
     - Eclipse
   - Git and github
 - Week 2
-  - Gradle
+  - Build automation
+    - Gradle
   - TDD with JUnit
     - Moreunit plugin for Eclipse
+    - FizzBuzz
   - object oriented concepts
     - abstraction
     - encapsulation
