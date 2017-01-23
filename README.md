@@ -16,8 +16,8 @@
     - classes: code blueprints
     - objects: built from the blueprints
     - methods: sending messages to objects
-    - constructors: methods that create objects
-    - variables
+      - constructors: methods that create objects
+    - variables: holding onto things
   - primitives
   - essential operators
     - assignment
@@ -36,16 +36,20 @@
     - Eclipse
   - Git and github
 - Week 2
-  - Build automation
+  - build automation
     - Gradle
   - TDD with JUnit
     - Moreunit plugin for Eclipse
     - FizzBuzz
+    - katas
   - object oriented concepts
     - abstraction
     - encapsulation
   - packages and visibility modifiers: organizing code
 - Week 3
+  - agile development / XP
+    - TDD
+    - pair programming
   - interfaces
     - `Iterator`
     - `Iterable`
@@ -84,10 +88,22 @@
  - Java Persistence API (JPA)
     - Spring Data
 - Week 9
+  - floating / extension topics
+  - advanced practice
 - Weeks 10-12
   - Scrum
   - Final Project
 
+## Floating/Extension Topics
+- Other types
+  - BigDecimal
+  - Date
+    - JDK Dates
+    - Joda
+- Practices
+  - Behavior-Driven Development (BDD)
+    - Gherkin
+    - Spock
 
 # Grading Policy
 
