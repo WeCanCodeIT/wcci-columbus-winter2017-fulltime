@@ -97,3 +97,4 @@
 - Fortune Teller exercise
   - [ ] create an application class (a class with a `main` method)
   - [ ] create a `FortuneTeller` class (or classes)
+  - [further instructions](https://github.com/WeCanCodeIT/wcci-fulltime-fall2016-cbus/blob/master/Week1/Assignments/FortuneTeller.md)
