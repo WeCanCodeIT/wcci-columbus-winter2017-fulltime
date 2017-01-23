@@ -34,7 +34,7 @@
   - arrays
   - IDEs
     - Eclipse
-  - Git and github
+  - Git and GitHub
 - Week 2
   - build automation
     - Gradle
@@ -145,6 +145,7 @@ This repository will contain (links to) useful resources, such as code developed
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/). Oracle Help Center
 - [Java Tutorial](https://www.tutorialspoint.com/java/). tutorialspoint.
 - [The Spring Getting Started Guides, Topical Guides, and Tutorials](https://spring.io/guides). Spring.io.
+- Chacon, Scott and Ben Straub. [Pro Git](https://git-scm.com/book/en/v2). Apress.
 
 
 © 2017 We Can Code IT ALL RIGHTS RESERVED
