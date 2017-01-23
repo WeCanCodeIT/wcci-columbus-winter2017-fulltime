@@ -142,9 +142,15 @@ This repository will contain (links to) useful resources, such as code developed
 - Wheeler, Willie with Joshua White. [*Spring in Practice*](https://www.manning.com/books/spring-in-practice). Manning Publications, 2013.
 
 ## Online Resources
+### Java
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/). Oracle Help Center
 - [Java Tutorial](https://www.tutorialspoint.com/java/). tutorialspoint.
+
+#### Spring
 - [The Spring Getting Started Guides, Topical Guides, and Tutorials](https://spring.io/guides). Spring.io.
+
+### Git
+- [GitHub Guides](https://guides.github.com/)
 - Chacon, Scott and Ben Straub. [Pro Git](https://git-scm.com/book/en/v2). Apress.
 
 
