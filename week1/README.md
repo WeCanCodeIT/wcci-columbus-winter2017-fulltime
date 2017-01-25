@@ -55,7 +55,9 @@
     - [ ] prompt the user for an operation ('+', '-', '*', or '/')
     - [ ] call the appropriate method on the `Calculator` instance previously created
     - [ ] display the result ("2 + 2 = 4")
-    - [ ] **extension**: ask the user whether she would like to perform another calculation, beginning again if she says "yes"; otherwise, display "Goodbye" and exit
+    - **extensions**:
+        - ask the user whether she would like to perform another calculation, beginning again if she says "yes"; otherwise, display "Goodbye" and exit
+        - use switch statments rather than if/then/else
 
 ### Homework
 - continue working on the calculator exercise, implementing the operations that we didn't finish during class
