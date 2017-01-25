@@ -39,7 +39,6 @@
 
 ## Wednesday, January 25th
 [Today in history](https://en.wikipedia.org/wiki/January_25#Events)
-- [Conditionals](https://docs.google.com/presentation/d/19PVxVvHTiADbd8LYmosGONFzrhR3hqWQD4ObQcah_u0/edit#slide=id.p)
 - Calculator (in class exercise)
   - [ ] `CalculatorApplication` class (with a `main` method)
     - [ ] create `Calculator` instance
