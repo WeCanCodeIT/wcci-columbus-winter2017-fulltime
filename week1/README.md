@@ -51,7 +51,7 @@
     - [ ] `invert` method
       - [ ] modify the `divide` method to call `invert` then `multiply`
   - [ ] `CalculatorApplication`'s `main` method should:
-    - [ ] prompt the user for two 
+    - [ ] prompt the user for two numbers
     - [ ] prompt the user for an operation ('+', '-', '*', or '/')
     - [ ] call the appropriate method on the `Calculator` instance previously created
     - [ ] display the result ("2 + 2 = 4")
