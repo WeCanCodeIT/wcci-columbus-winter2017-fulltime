@@ -206,5 +206,4 @@ All numbers are separated by semicolon. There are up to 20 numbers in one line. 
 - Fortune Teller exercise
   - [ ] create an application class (a class with a `main` method)
   - [ ] create a `FortuneTeller` class (or classes)
-<<<<<<< HEAD
   - [further instructions](https://github.com/WeCanCodeIT/wcci-fulltime-fall2016-cbus/blob/master/Week1/Assignments/FortuneTeller.md)
