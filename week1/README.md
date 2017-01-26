@@ -109,9 +109,11 @@
 - ask the user for the number of silver/gold dollars, quarters, dimes, nickels, and pennies deposited
 - display the resulting total
 
-#### CodeEval Exercises
+#### Exercises (from CodeEval)
 
-##### [Lowercase](https://www.codeeval.com/open_challenges/20)
+For each of these, create an appropriately named class with a main method to run your code.
+
+##### Lowercase
 
 Given a string, write a program to:
 - convert it into lowercase
@@ -127,12 +129,42 @@ Example output:
 >
 > this is some text
 
+##### Penultimate Word
 
-- [Penultimate Word](https://www.codeeval.com/open_challenges/92)
-- [Odd Numbers](https://www.codeeval.com/open_challenges/25)
-- [Even Numbers](https://www.codeeval.com/open_challenges/100)
-- [Age Distribution](https://www.codeeval.com/open_challenges/152)
-- [Compare Points](https://www.codeeval.com/open_challenges/192)
+Write a program which finds the next-to-last word in a string.
+
+|example input|output|
+|-------------|------|
+|some line with text|with|
+|another line|another|
+
+##### [Odd Numbers](https://www.codeeval.com/open_challenges/25)
+Example input:
+>
+
+Example output:
+>
+
+##### [Even Numbers](https://www.codeeval.com/open_challenges/100)
+Example input:
+>
+
+Example output:
+>
+
+##### [Age Distribution](https://www.codeeval.com/open_challenges/152)
+Example input:
+>
+
+Example output:
+>
+
+##### [Compare Points](https://www.codeeval.com/open_challenges/192)
+Example input:
+>
+
+Example output:
+>
 
 ### Homework
 - CodeEval: [Capitalize Words](https://www.codeeval.com/open_challenges/93)
