@@ -133,6 +133,8 @@ Write a program which finds the next-to-last word in a string.
 |some line with text|with|
 |another line|another|
 
+*[Hint: you'll want to call `split(" ")` on your input String.]*
+
 ##### Odd Numbers
 
 Print the odd numbers from 1 to 99.
