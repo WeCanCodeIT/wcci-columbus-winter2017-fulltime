@@ -119,15 +119,10 @@ Given a string, write a program to:
 - convert it into lowercase
 - write it to `System.out`
 
-Example input:
-> HELLO BOOTCAMP
->
-> This is some text
-
-Example output:
-> hello bootcamp
->
-> this is some text
+|example input|output|
+|-------------|------|
+|HELLO BOOTCAMP|hello bootcamp|
+|This is some text|this is some text|
 
 ##### Penultimate Word
 
@@ -138,19 +133,19 @@ Write a program which finds the next-to-last word in a string.
 |some line with text|with|
 |another line|another|
 
-##### [Odd Numbers](https://www.codeeval.com/open_challenges/25)
-Example input:
->
+##### Odd Numbers
 
-Example output:
->
+Print the odd numbers from 1 to 99.
 
-##### [Even Numbers](https://www.codeeval.com/open_challenges/100)
-Example input:
->
+##### Even Numbers
 
-Example output:
->
+Write a program which checks input numbers and determines whether a number is even or not.
+
+|example input|output|
+|-------------|------|
+|701|false|
+|4123|false|
+|2936|true|
 
 ##### [Age Distribution](https://www.codeeval.com/open_challenges/152)
 Example input:
