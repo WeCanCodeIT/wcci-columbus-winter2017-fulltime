@@ -179,8 +179,27 @@ Bob's hiking club is lost in the mountains on the way to a scenic overlook. Fort
 
 
 ### Homework
-- CodeEval: [Capitalize Words](https://www.codeeval.com/open_challenges/93)
-- CodeEval: [Word to Digit](https://www.codeeval.com/open_challenges/104)
+##### Capitalize Words
+
+Write a program which capitalizes the first letter of each word in a sentence.
+
+|input|output|
+|-----|------|
+|Hello world|Hello World|
+|javaScript language|JavaScript Language|
+|a letter|A Letter|
+|1st thing|1st Thing|
+
+##### Word to Digit
+
+Having a string representation of a set of numbers you need to print this numbers.
+
+All numbers are separated by semicolon. There are up to 20 numbers in one line. The numbers are "zero" to "nine".
+
+|example input|output|
+|-------------|------|
+|eight;six|86|
+|two;four;two|242|
 
 ## Friday, January 27th
 [Today in history](https://en.wikipedia.org/wiki/January_27#Events)
@@ -189,5 +208,3 @@ Bob's hiking club is lost in the mountains on the way to a scenic overlook. Fort
   - [ ] create a `FortuneTeller` class (or classes)
 <<<<<<< HEAD
   - [further instructions](https://github.com/WeCanCodeIT/wcci-fulltime-fall2016-cbus/blob/master/Week1/Assignments/FortuneTeller.md)
-=======
->>>>>>> b3fe9620197bf37088c11ee11e694600943e1aee
