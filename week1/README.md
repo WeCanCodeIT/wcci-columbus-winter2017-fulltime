@@ -167,12 +167,16 @@ The person's age will determine which category the person should be in:
 |66 to 100|The Golden Years|
 |< 0 or > 100|This program is for humans|
 
-##### [Compare Points](https://www.codeeval.com/open_challenges/192)
-Example input:
->
+##### Compare Points
 
-Example output:
->
+Bob's hiking club is lost in the mountains on the way to a scenic overlook. Fortunately, Bob has a GPS device, so that he can see the coordinates where the group is currently at. The GPS gives the current X/Y coordinates as O, P, and the scenic overlook is located at Q, R. Bob now just needs to tell the group which way to go so they can get to the overlook in time for s'mores.
+
+|O|P|Q|R|direction|
+|:---:|:---:|:---:|:---:|---------|
+|0|0|1|5|NE|
+|12|13|12|13|here|
+|0|1|0|5|N|
+
 
 ### Homework
 - CodeEval: [Capitalize Words](https://www.codeeval.com/open_challenges/93)
