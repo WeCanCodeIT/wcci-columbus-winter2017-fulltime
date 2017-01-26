@@ -1,4 +1,5 @@
 # Week 1
+Jump to: [Tuesday](#tuesday-january-24th) | [Wednesday](#wednesday-january-25th) | [Thursday](#thursday-january-26th) | [Friday](#friday-january-27th)
 ## Monday, January 23rd
 [Today in history](https://en.wikipedia.org/wiki/January_23#Events)
 - Team Building: "Hello, Team!"
