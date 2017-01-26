@@ -147,12 +147,23 @@ Write a program which checks input numbers and determines whether a number is ev
 |4123|false|
 |2936|true|
 
-##### [Age Distribution](https://www.codeeval.com/open_challenges/152)
-Example input:
->
+##### Age Distribution
 
-Example output:
->
+You're responsible for providing a demographic report for your local school district based on age. To do this, you're going determine which 'category' each person fits into based on age.
+
+The person's age will determine which category the person should be in:
+
+|age|output|
+|---|------|
+|0 to 2|Still in Mama's arms|
+|3 to 4|Preschool Maniac|
+|5 to 11|Elementary School| 
+|12 to 14|Middle School|
+|15 to 18|High School|
+|19 to 22|College|
+|23 to 65|Working for The Man|
+|66 to 100|The Golden Years|
+|< 0 or > 100|This program is for humans|
 
 ##### [Compare Points](https://www.codeeval.com/open_challenges/192)
 Example input:
