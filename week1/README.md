@@ -85,6 +85,7 @@
     - added java files (classes):
         - GpaCalculator.java (GpaCalculator class)
         - GpaCalculatorTest.java (GpaCalculatorTest class)
+        - [*Note: we realized we didn't really need `GpaCalculator` -- we're just putting code inside `GpaCalculatorTest`'s `main` method.]
 
 - the class:
     - cloned their forks (`git clone https://github.com/*user*/java-gpa-calculator`)
