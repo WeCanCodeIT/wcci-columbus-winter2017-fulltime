@@ -69,7 +69,33 @@
 - [Arrays](https://docs.google.com/presentation/d/15i4YRKWI7dbjG-peq-iO8OaZoxt6a2-E0N3Tpq5BdT4/edit?usp=sharing)
 ### Exercises in class
 #### GPA Calculator
+##### Fork It!
 
+- Brian:
+    - created a java-gpa-calculator repository
+
+- the class:
+    - forked the repository from GitHub
+
+- Brian:
+    - cloned the repository (`git clone https://github.com/btforsythe/java-gpa-calculator`)
+    - added a build.gradle
+    - added a src/main/java folder (default location for java source files)
+        - [Note: later, we'll have a src/test/java folder as well]
+    - added java files (classes):
+        - GpaCalculator.java (GpaCalculator class)
+        - GpaCalculatorTest.java (GpaCalculatorTest class)
+
+- the class:
+    - cloned their forks (`git clone https://github.com/*user*/java-gpa-calculator`)
+    - created a pull request in GitHub to pull changes from Brian's repository
+    - merged the pull request
+    - changed directories into the repository directory (`cd java-gpa-calculator`)
+    - pulled the latest code (`git pull`)
+    - ran the eclipse task to set up an eclipse project (`gradle eclipse`)
+    - Imported the project into Eclipse (File->Import..., Existing Project...)
+
+##### Instructions
 - ask the user how many classes were taken
 - ask the user for the letter grades received (one at a time) [assume a 4.0 scale]
 - display the resulting GPA
