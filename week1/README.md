@@ -210,4 +210,4 @@ Due: Monday, January 30th by 9:30 AM ([GitHub submission link](https://docs.goog
 
 - [ ] create an application class (a class with a `main` method)
 - [ ] [optional] create a `FortuneTeller` class (or classes)
-- [further instructions](https://github.com/WeCanCodeIT/wcci-fulltime-fall2016-cbus/blob/master/Week1/Assignments/FortuneTeller.md)
+- [further instructions](../exercises/fortune-teller.md)
