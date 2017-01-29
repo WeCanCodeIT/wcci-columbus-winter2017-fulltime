@@ -30,6 +30,6 @@ Jump to: [Tuesday](#tuesday-january-31st) | [Wednesday](#wednesday-february-1st)
 
 [Today in history](https://en.wikipedia.org/wiki/February_3#Events)
 
-### Fortune Teller exercise
+### Weekly exercise (TBD)
 
 Due: Monday, February 6th by 9:30 AM (GitHub submission link)
