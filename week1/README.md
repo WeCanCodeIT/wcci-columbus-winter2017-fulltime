@@ -206,7 +206,7 @@ All numbers are separated by semicolon. There are up to 20 numbers in one line. 
 [Today in history](https://en.wikipedia.org/wiki/January_27#Events)
 ### Fortune Teller exercise
 
-Due: Monday, January 30th by 9:30 AM ([GitHub submission link](https://docs.google.com/a/wecancodeit.org/forms/d/1My9F-7TyvtTYCszGgFv1NKcQ74cB20hOWJ_tHYMo03s/viewform))
+Due: Monday, January 30th by 9:30 AM ([GitHub submission link](https://docs.google.com/a/wecancodeit.org/forms/d/1WbzmBCpEZONCCVxiSHr7roREBm0o63_EZ0NqgazZcFw))
 
 - [ ] create an application class (a class with a `main` method)
 - [ ] [optional] create a `FortuneTeller` class (or classes)
