@@ -21,9 +21,11 @@ Jump to: [Tuesday](#tuesday-january-31st) | [Wednesday](#wednesday-february-1st)
 
 [Today in history](https://en.wikipedia.org/wiki/January_31#Events)
 
+- Pair programming
+
 ### Exercises in class
 
-- Let's revisit last Thursday's exercise from a test-driving perspective!
+- Let's revisit last Thursday's exercises from a test-driving perspective with a partner!
 
 ### Homework
 
