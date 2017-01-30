@@ -36,8 +36,11 @@ Jump to: [Tuesday](#tuesday-january-31st) | [Wednesday](#wednesday-february-1st)
 
 [Today in history](https://en.wikipedia.org/wiki/February_1#Events)
 
-- interfaces (with a guest appearance by Paul?) 
-- Iterators and Iterables: Lions, and Tigers, and Bears, oh my! 
+- Iterators and Iterables: Lions, and Tigers, and Bears, oh my! (in class exercise)
+
+- Inheritance
+    - interfaces
+    - abstract classes
 
 ## Thursday, February 2nd
 
