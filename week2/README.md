@@ -36,13 +36,18 @@ Jump to: [Tuesday](#tuesday-january-31st) | [Wednesday](#wednesday-february-1st)
 
 [Today in history](https://en.wikipedia.org/wiki/February_1#Events)
 
-### Homework
+- interfaces (with a guest appearance by Paul?) 
+- Iterators and Iterables: Lions, and Tigers, and Bears, oh my! 
 
 ## Thursday, February 2nd
 
 [Today in history](https://en.wikipedia.org/wiki/February_2#Events)
 
-### Exercises in class
+- Java collections
+    - Lists
+    - Sets
+    - Maps
+    - the others
 
 ## Friday, February 3rd
 
@@ -51,3 +56,7 @@ Jump to: [Tuesday](#tuesday-january-31st) | [Wednesday](#wednesday-february-1st)
 ### Weekly exercise (TBD)
 
 Due: Monday, February 6th by 9:30 AM (GitHub submission link)
+
+#### Virtual Pet
+
+It poops!
