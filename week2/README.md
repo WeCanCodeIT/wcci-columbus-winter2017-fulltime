@@ -21,6 +21,7 @@ Jump to: [Tuesday](#tuesday-january-31st) | [Wednesday](#wednesday-february-1st)
 
 [Today in history](https://en.wikipedia.org/wiki/January_31#Events)
 
+- Primitives, classes, and the infamous null.
 - Pair programming
 
 ### Exercises in class
