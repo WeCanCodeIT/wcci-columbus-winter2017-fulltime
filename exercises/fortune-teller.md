@@ -1,4 +1,4 @@
-# Fortune Teller ([Submission Link](https://docs.google.com/a/wecancodeit.org/forms/d/1WbzmBCpEZONCCVxiSHr7roREBm0o63_EZ0NqgazZcFw/edit?usp=drivesdk))
+# Fortune Teller ([Submission Link](https://docs.google.com/a/wecancodeit.org/forms/d/1WbzmBCpEZONCCVxiSHr7roREBm0o63_EZ0NqgazZcFw))
 
 ## Overview
 Develop a console application that will tell the user’s fortune based on data received from the user.
