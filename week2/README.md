@@ -4,15 +4,31 @@ Jump to: [Tuesday](#tuesday-january-31st) | [Wednesday](#wednesday-february-1st)
 
 [Today in history](https://en.wikipedia.org/wiki/January_30#Events)
 
+- TDD
+    - Red-Green-Refactor
+    - Uncle Bob's Three Rules
+    - Junit
+    - MoreUnit
+- katas
+    - Let's do FizzBuzz!
+- FortuneTeller revisited
+
 ### Homework
 
-### References
+- continue to write tests for FortuneTeller
 
 ## Tuesday, January 31st
 
 [Today in history](https://en.wikipedia.org/wiki/January_31#Events)
 
+### Exercises in class
+
+- Let's revisit last Thursday's exercise from a test-driving perspective!
+
 ### Homework
+
+- Keep test driving those exercises.
+- Research katas.
 
 ## Wednesday, February 1st
 
