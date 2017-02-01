@@ -149,6 +149,7 @@ This repository will contain (links to) useful resources, such as code developed
 - [The Spring Getting Started Guides, Topical Guides, and Tutorials](https://spring.io/guides). Spring.io.
 
 ### Git
+- [Git Tutorials](https://www.youtube.com/watch?v=0fKg7e37bQE&feature=youtu.be) Videos Tutorials.
 - [GitHub Guides](https://guides.github.com/). github.
 - Chacon, Scott and Ben Straub. [Pro Git](https://git-scm.com/book/en/v2). Apress.
 
