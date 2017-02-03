@@ -61,5 +61,6 @@ Jump to: [Tuesday](#tuesday-january-31st) | [Wednesday](#wednesday-february-1st)
 
 Due: Monday, February 6th by 9:30 AM (GitHub submission link)
 
-[Virtual Pet](https://github.com/WeCanCodeIT/wcci-columbus-winter2017-fulltime/blob/master/exercises/virtual-pet.md) It poops!
+[Virtual Pet](https://github.com/WeCanCodeIT/wcci-columbus-winter2017-fulltime/blob/master/exercises/virtual-pet.md)
+It poops!
 
