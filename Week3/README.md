@@ -15,17 +15,16 @@
 - OOP Review
     - constructors
     - attributes
-    - methods
+    - operations (methods)
 - After class tutoring session: Getting started with Virtual Pet
- - Half Day Project Day (Virtual Pet)
 
 ## Wednesday, February 8th
 
 - Half day project day (Virtual Pet or Bank Account)
-- Arrays
+- [Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
     - Review
     - Using for and foreach loops with arrays
-    - (time permitting) Lists
+    - (time permitting) [Lists](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)
         - Introduction
         - Lists vs arrays
         
@@ -41,7 +40,7 @@
     - Polymorphism
 
 ## Friday, February 10th
- - Maps
+ - [Maps](https://docs.oracle.com/javase/tutorial/collections/interfaces/map.html)
  - Other collection types
 
 
