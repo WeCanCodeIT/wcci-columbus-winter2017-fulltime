@@ -12,7 +12,7 @@ Create the following classes:
 
 Give this class a `main` method. It will be used to run your application. It will be responsible for all of the output to to the console and accepting input from the console.
 
-It should display a menu with entries that allow the user the following options:
+It should display a menu with entries that allows the user the following options:
 
 - View balance for:
   - [ ] checking account
