@@ -21,10 +21,10 @@
 ## Wednesday, February 8th
 
 - Half day project day (Virtual Pet or Bank Account)
-- [Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+- Arrays
     - Review
     - Using for and foreach loops with arrays
-    - (time permitting) [Lists](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)
+    - (time permitting) Lists
         - Introduction
         - Lists vs arrays
         
@@ -40,7 +40,7 @@
     - Polymorphism
 
 ## Friday, February 10th
- - [Maps](https://docs.oracle.com/javase/tutorial/collections/interfaces/map.html)
+ - Maps
  - Other collection types
 
 
