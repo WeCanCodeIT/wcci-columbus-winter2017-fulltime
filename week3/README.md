@@ -30,18 +30,16 @@
         
 ## Thursday, February 9th
 
+- Morning with Mel
+    - The stack and the heap
+    - Interview questions: passing by value and reference
+    
 - Lists
     - Review
     - As part of the Java Collections Framework
-- Pillars of OOP intro
-    - Abstraction
-    - Encapsulation
-    - Inheritance
-    - Polymorphism
 
 ## Friday, February 10th
- - Maps
- - Other collection types
 
+ - Maps
 
 
