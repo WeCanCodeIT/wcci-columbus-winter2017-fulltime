@@ -41,5 +41,4 @@
 ## Friday, February 10th
 
  - Maps
-
-
+    - In class exercise: [Restaurant Menu](exercises/maps-restaurant-menu.md)
