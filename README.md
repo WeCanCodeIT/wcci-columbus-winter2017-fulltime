@@ -60,19 +60,18 @@
   - polymorphism
   - inheritance
 - Week 4
-  -Monday
+  - Monday
     - Intro A-PIE
     - OOP
-  -Tuesday
+  - Tuesday
     - Continuation of OOP
     - Interfaces
-  -Wednesday
+  - Wednesday
     - Continuation of Interfaces
     - Nested Classes
-  -Thursday 
+  - Thursday 
     - exceptions
-    - file I/O
-  
+    - file I/O  
 - Week 5
   - HTML
   - CSS
