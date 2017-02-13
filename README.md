@@ -49,9 +49,6 @@
   - agile development / XP
     - TDD
     - pair programming
-  - interfaces
-    - `Iterator`
-    - `Iterable`
   - Java collections
     - `Collection`
     - `List`
@@ -66,6 +63,8 @@
   - Tuesday
     - Continuation of OOP
     - Interfaces
+      - `Iterator`
+      - `Iterable`
   - Wednesday
     - Continuation of Interfaces
     - Nested Classes
