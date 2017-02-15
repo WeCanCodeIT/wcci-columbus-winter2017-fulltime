@@ -30,7 +30,7 @@ The Account class will be extended by each of the classes representing specific 
 - [ ] An `abstract` `getAccountType()` method to be implemented by `Account` subclasses.
 - [ ] Implementations of methods common to all accounts.
 - [ ] `abstract` declarations for **all** other methods (to be implemented by accounts).
-- [ ] A *constructor* that accepts the opening balance for the account.
+- [ ] A *constructor* that accepts at least the opening balance for the account. (Add other arguments as you flesh out your solution.)
 - Attributes related to accounts. At a minimum these should include:
     - [ ] client name
     - [ ] account number
@@ -64,5 +64,7 @@ Each of these classes:
   - [ ] balance after the transaction
 
 ## Hints
+
+Attributes that are only accessed by `Account` should be private (account number), while attributes that need to be accessed by subclasses (account balance) should be `protected` so that subclasses can access them.
 
 Persistence is not required, so it is ok (and expected) that each time you run the program, the account balances and other attributes reset.
