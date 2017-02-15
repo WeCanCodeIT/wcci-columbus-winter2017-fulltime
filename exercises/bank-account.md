@@ -65,6 +65,6 @@ Each of these classes:
 
 ## Hints
 
-Attributes that are only accessed by `Account` should be private (account number), while attributes that need to be accessed by subclasses (account balance) should be `protected` so that subclasses can access them.
+Attributes that are only accessed by `Account` should be `private` (account number), while attributes that need to be accessed by subclasses (account balance) should be `protected` so that subclasses can access them.
 
 Persistence is not required, so it is ok (and expected) that each time you run the program, the account balances and other attributes reset.
