@@ -46,6 +46,7 @@ We would like to print out a statement for rentals. To this end, we'll be changi
 - [ ] Call `RentalStatement`'s `print` method, which should print the following for each rental:
     - priceCode
     - title
+    - days
     - fees
 
 Here is how our classes should look after this is complete:
