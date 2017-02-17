@@ -54,9 +54,20 @@ Here is how our classes should look after this is complete:
 
 ## Extensions
 
-- How can you refactor the `Movie` hierarchy to eliminate duplication in the calculation of fees?
-- Read the rented movies from a file which contains the priceCode, title, and days. Research the pattern you might use to instantiate the appropriate type of movie based on its priceCode.
+### Keeping it D(on't)-R(epeat)-Y(ourself)
+
+How can you refactor the `Movie` hierarchy to eliminate duplication in the calculation of fees?
+
+### Write to a file instead of the console
+
+*Method overloading* is the act of creating methods with the same name but different signatures. They must receive different arguments; otherwise, Java won't know which one you're trying to call. Though it is not required, these should do the same thing in spirit. We usually only overload methods to allow them to be called with different parameters.
+
+Overload the `print` method of `RentalStatement`: `System.out` (look at it in Eclipse) is of type `java.io.PrintStream`. Create a second `print` method in `RentalStatement` that accepts a `PrintStream` as a property. Have your existing `print` method call this one with `System.out`. Research how to create a `PrintStream` that writes to a file, then in your app's `main` method, call `print` with this `PrintStream`.
+
+### Read from a file
+
+Read the rented movies from a file which contains the priceCode, title, and days. Research the *design pattern* you might use to instantiate the appropriate type of movie based on its priceCode.
 
 ## Submission Link
 
-*Coming soon!*
+Here is the submission link for your project: https://goo.gl/forms/5GU5aoUR8m2EGYyG2
