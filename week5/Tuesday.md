@@ -24,6 +24,7 @@
 
 [External vs Internal Style Sheets](https://www.w3schools.com/css/css_howto.asp)
 
+[Cheat Sheet](https://docs.google.com/a/wecancodeit.org/document/d/1RJs-L_JNtFGLd7CRYBjRb4pr4Vulk3N2BTXq80e4i4w/edit?usp=sharing)
 
 # Homework
 
@@ -32,7 +33,3 @@
 Finish the remainder of the of this lesson.
 
 Should be sections 4-8
-
-
-
-[Cheat Sheet](https://docs.google.com/a/wecancodeit.org/document/d/1RJs-L_JNtFGLd7CRYBjRb4pr4Vulk3N2BTXq80e4i4w/edit?usp=sharing)
