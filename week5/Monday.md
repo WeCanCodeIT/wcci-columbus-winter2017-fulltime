@@ -36,7 +36,6 @@
 4. Styling w/ CSS
 
 
-
 # Cheat Sheet
 
 [HTML Cheat Sheet](https://docs.google.com/document/d/1QxX1zFQd_GEIWaHsqMbeC4qk2_MijQ2-AhGUrjnlm-k/edit?usp=sharing)
