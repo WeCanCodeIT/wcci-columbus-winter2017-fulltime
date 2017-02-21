@@ -11,6 +11,7 @@
 
 ## Tuesday, February 21st
 
+- GitHub Training
 - Into to CSS
     - Define CSS and why it is used
     - Learn how to use CSS syntax and selectors

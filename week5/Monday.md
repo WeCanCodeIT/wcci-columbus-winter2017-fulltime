@@ -2,15 +2,15 @@
 
 **Intro to HTML**
 
-Learn the basic syntax of HTML
+    -Learn the basic syntax of HTML
 
-Learn how to structure an HTML document
+    -Learn how to structure an HTML document
 
-Learn common HTML tags
+    -Learn common HTML tags
 
-Learn about attributes
+    -Learn about attributes
 
-Slides
+**Slides**
 
 [Intro to HTML](http://t.sidekickopen65.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg7fK0DCVd7tkH4XyK1jW1q7mhC56dTCzf1M-rhv02?t=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1EGeb4zKiNuZHL10vothQ7mXpGTqYqamkbJpvfzI707o%2Fedit%3Fusp%3Dsharing&amp;si=6314804771946496&amp;pi=b885e1a4-4b48-4ba4-f541-cd64f0489e78)
 
