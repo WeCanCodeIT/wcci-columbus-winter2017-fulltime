@@ -20,7 +20,7 @@
 
 [w3schools](http://t.sidekickopen65.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg7fK0DCVd7tkH4XyK1jW1q7mhC56dTCzf1M-rhv02?t=https%3A%2F%2Fwww.w3schools.com%2F&amp;si=6314804771946496&amp;pi=b885e1a4-4b48-4ba4-f541-cd64f0489e78)
 
-[HTML5 Doctor](http://t.sidekickopen65.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg7fK0DCVd7tkH4XyK1jW1q7mhC56dTCzf1M-rhv02?t=http%3A%2F%2Fhtml5doctor.com%2F&amp;si=6314804771946496&amp;pi=b885e1a4-4b48-4ba4-f541-cd64f0489e78)
+[CSS Syntex](https://www.w3schools.com/css/css_syntax.asp)
 
 [HTML5 for Web Designers](http://t.sidekickopen65.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg7fK0DCVd7tkH4XyK1jW1q7mhC56dTCzf1M-rhv02?t=http%3A%2F%2Fwww.abookapart.com%2Fproducts%2Fhtml5-for-web-designers&amp;si=6314804771946496&amp;pi=b885e1a4-4b48-4ba4-f541-cd64f0489e78)
 
