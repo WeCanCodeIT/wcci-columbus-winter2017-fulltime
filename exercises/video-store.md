@@ -2,6 +2,8 @@
 
 This exercise is adapted from a classic example, the "Replace Conditional with Polymorphism" refactoring found in Fowler's *Refactoring* book.
 
+*[Note: The diagrams were updated on 2017-02-21 to correct a discrepancy. The `getPriceCode` method in `Movie` should not be abstract. (Alternately, the `priceCode` attribute could be removed from `Movie`.) Any confusion on this detail will not affect your grade.]*
+
 ## Setup
 
 - Fork the existing repository (based on in-class work).
