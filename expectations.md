@@ -1,4 +1,4 @@
-w#Expectations
+#Expectations
 ###Individual/Self
 
 - Have a working understanding of the week's topics by the end of each week.
