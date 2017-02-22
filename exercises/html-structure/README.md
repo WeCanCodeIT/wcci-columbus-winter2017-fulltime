@@ -8,6 +8,10 @@ Write the HTML for some websites, focusing on picking appropriate elements to em
 
 ### Required Tasks
 
+Definition - What does Yak Shaving mean?
+
+Yak shaving is a progranming term that refers to a series of tasks that need to be performed before a project can progress to its next milestone. This term is believed to have been coined by Carlin Vieri and was inspired by an episode of "The Ren & Stimpy Show." The term's name alludes to the seeming uselessness of the tasks being performed, even though they may be necessary to solve a larger problem. The process of complicating a simple activity also may be considered yak shaving.
+
 - [ ] Yak Shaving
   - [ ] Create a repository called `structure`
   - [ ] Make frequent commits with descriptive messages
