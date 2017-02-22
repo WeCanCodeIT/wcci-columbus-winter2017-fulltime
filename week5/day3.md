@@ -1,12 +1,16 @@
-# Day 4 Overview
+# Day 3 Overview
+  
+# Positioning in CSS
 
+- Define CSS and why it is used
 
-### Topics
-   
-- Intro to Bootstrap
-  - 12 Column Grid System
-  - Start Me Up In Class Assignment
+- Learn how to use CSS syntax and selectors
 
+- Learn how to insert external stylesheets, internal stylesheets, and inline styles
+
+- Learn how to style external stylesheets
+
+- Learn how to style a webpage or site to certain specifications
 
 # Resources
 
