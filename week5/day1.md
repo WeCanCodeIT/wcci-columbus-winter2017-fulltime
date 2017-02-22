@@ -2,13 +2,10 @@
 
 # Intro to HTML
 
--Learn the basic syntax of HTML
-
--Learn how to structure an HTML document
-
--Learn common HTML tags
-
--Learn about attributes
+- Learn the basic syntax of HTML
+- Learn how to structure an HTML document
+- Learn common HTML tags
+- Learn about attributes
 
 # Slides
 
