@@ -1,4 +1,4 @@
-# Tuesday, February 21st
+# Day 2 Overview
 
 # Intro to CSS
 
