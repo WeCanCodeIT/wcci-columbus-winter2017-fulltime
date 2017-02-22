@@ -1,26 +1,25 @@
 # Day 3 Overview
   
-# Positioning in CSS
+# Positioning Content and Block Model in CSS
 
-- Define CSS and why it is used
+- Displaying Elements
 
-- Learn how to use CSS syntax and selectors
+- The Box Model
 
-- Learn how to insert external stylesheets, internal stylesheets, and inline styles
+- Positioning with Floats
 
-- Learn how to style external stylesheets
+- Positioning with Inline-Block
 
-- Learn how to style a webpage or site to certain specifications
+- Uniquely Positioning Elements
+
 
 # Resources
 
 [W3schools](http://t.sidekickopen65.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg7fK0DCVd7tkH4XyK1jW1q7mhC56dTCzf1M-rhv02?t=https%3A%2F%2Fwww.w3schools.com%2F&amp;si=6314804771946496&amp;pi=b885e1a4-4b48-4ba4-f541-cd64f0489e78)
 
-[CSS Syntex](https://www.w3schools.com/css/css_syntax.asp)
+[Positioning Content in CSS](http://learn.shayhowe.com/html-css/positioning-content/)
 
-[External vs Internal Style Sheets](https://www.w3schools.com/css/css_howto.asp)
-
-[Cheat Sheet](https://docs.google.com/a/wecancodeit.org/document/d/1RJs-L_JNtFGLd7CRYBjRb4pr4Vulk3N2BTXq80e4i4w/edit?usp=sharing)
+[Box Model](http://learn.shayhowe.com/html-css/opening-the-box-model/)
 
 # Homework
 
