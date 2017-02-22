@@ -46,4 +46,4 @@
 
 ## Friday, February 24th
 
-- Project Day
+- Project Day: [Tuscany Villa](../exercises/tuscany-villa)
