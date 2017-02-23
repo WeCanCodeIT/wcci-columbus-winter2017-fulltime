@@ -10,6 +10,8 @@
 # Slides
 [Bootstrap](https://docs.google.com/presentation/d/1STO9140Y4r9Sv8NPc4pxt1QSUjTRDEf2yeI2NqReLNQ/edit?usp=sharing)
 
+# Exercise
+[Life is Strange](https://docs.google.com/presentation/d/1F1aHwgVWd4eZ3j3HuSqlntrzcVEFIKuLS97jFum6HuY/edit?usp=sharing)
 # Resources
 
 [W3schools](http://t.sidekickopen65.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg7fK0DCVd7tkH4XyK1jW1q7mhC56dTCzf1M-rhv02?t=https%3A%2F%2Fwww.w3schools.com%2F&amp;si=6314804771946496&amp;pi=b885e1a4-4b48-4ba4-f541-cd64f0489e78)
