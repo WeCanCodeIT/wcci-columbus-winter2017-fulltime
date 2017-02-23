@@ -7,6 +7,8 @@
   - 12 Column Grid System
   - Start Me Up In Class Assignment
 
+# Slides
+[Bootstrap](https://docs.google.com/presentation/d/1STO9140Y4r9Sv8NPc4pxt1QSUjTRDEf2yeI2NqReLNQ/edit?usp=sharing)
 
 # Resources
 
