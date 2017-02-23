@@ -4,6 +4,10 @@
 
 ![](segue-blog-java-vs-javascript.png)
 
+Or…
+
+> "... as car is to carpet." -- Some other guy 
+
 # Differences
 
 Java                |&lt;-&gt;|JavaScript
@@ -11,6 +15,7 @@ Java                |&lt;-&gt;|JavaScript
 compiled            ||interpreted (usually)
 write once, run anywhere (usually)||subject to differences in execution environments
 statically typed    ||dynamic
+classical inheritance - a class inherits from another class||prototypal inheritance - an object inherites from another object (its *prototype*)
 
 
 # Dynamic languages
@@ -26,3 +31,5 @@ myVariable = 42; // this is valid
 ![](baby-duck.jpg)
 
 ## JSON, not Maps
+
+- JSON = JavaScript Object Notation
