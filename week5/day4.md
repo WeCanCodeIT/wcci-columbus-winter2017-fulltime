@@ -14,7 +14,7 @@
 [Life is Strange](https://docs.google.com/presentation/d/1F1aHwgVWd4eZ3j3HuSqlntrzcVEFIKuLS97jFum6HuY/edit?usp=sharing)
 # Resources
 
-[W3schools]https://www.w3schools.com/bootstrap/default.asp)
+[W3schools](https://www.w3schools.com/bootstrap/default.asp)
 
 [Get Started](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
 
