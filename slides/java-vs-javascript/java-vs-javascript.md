@@ -30,6 +30,41 @@ myVariable = 42; // this is valid
 
 ![](baby-duck.jpg)
 
-## JSON, not Maps
+# Welcome to the console
+
+- Chrome Developer tools, ways to get there:
+    - Tools Menu->Developer tools
+    - Shift+Ctrl+I
+    - Right click an element and select *Inspect*
+- Click the *Console* tab
+
+    ![](helloConsole.png)
+
+    - `<- undefined` indicates the return value
+    - implements what is known as a **R**ead **E**valuate **P**rint **L**oop (REPL)
+
+## Writing to the console
+
+### Java
+
+```Java
+System.out.println("my message");
+```
+
+### JavaScript
+
+```JavaScript
+console.log("my message");
+```
+
+# Arrays
+
+### Java
+
+![](arrays-java.png)
+
+# JSON, not Maps
 
 - JSON = JavaScript Object Notation
+
+## Also also JSON (creating objects)
