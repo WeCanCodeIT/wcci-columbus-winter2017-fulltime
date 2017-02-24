@@ -86,11 +86,13 @@
 
 <ul>
   <li>no compilation phase, ‘bad’ code is executed</li>
-  <li>variables have no type
-    <pre><code>var myVariable = "foo";
+  <li>variables have no type</li>
+</ul>
+
+<pre><code class="language-JavaScript">var myVariable = "foo";
 myVariable = 42; // this is valid
 </code></pre>
-  </li>
+<ul>
   <li>duck typing</li>
 </ul>
 
@@ -148,11 +150,41 @@ myVariable = 42; // this is valid
 
   <div class="slide">
     <!-- _S9SLIDE_ -->
+<h1 id="variables">Variables</h1>
+
+<h3 id="java-statically-typed">Java (statically typed)</h3>
+
+<pre><code class="language-Java">VirtualPet fido;
+int days;
+</code></pre>
+
+<h3 id="javascript-dynamic">JavaScript (dynamic)</h3>
+
+<pre><code class="language-JavaScript">var fido;
+var days;
+</code></pre>
+<p><em>Be Careful!</em> If you do not use <code>var</code> to declare a JavaScript variable, it will be created automagically in the global scope. This can cause you pain.</p>
+
+
+
+  </div>
+
+  <div class="slide">
+    <!-- _S9SLIDE_ -->
 <h1 id="arrays">Arrays</h1>
 
 <h3 id="java-1">Java</h3>
 
-<p><img src="arrays-java.png" alt="" /></p>
+<pre><code class="language-Java">String[] menuItems = { "filet mignon", "escargot", "tacos de pescado" };
+</code></pre>
+
+<h3 id="javascript-1">JavaScript</h3>
+
+<pre><code class="language-JavaScript">var menuItems = [ "filet mignon", "escargot", "tacos de pescado" ];
+</code></pre>
+<p>Square brackets, not curly brackets.</p>
+
+<p>See? I know how to spell it, Dinah!</p>
 
 
 
@@ -160,11 +192,23 @@ myVariable = 42; // this is valid
 
   <div class="slide">
     <!-- _S9SLIDE_ -->
-<h1 id="json-not-maps">JSON, not Maps</h1>
+<h2 id="iterating-by-index">Iterating by index</h2>
 
-<ul>
-  <li>JSON = JavaScript Object Notation</li>
-</ul>
+<h3 id="java-2">Java</h3>
+
+<pre><code class="language-Java">String[] menuItems = { "filet mignon", "escargot", "tacos de pescado" };
+for(int idx = 0; idx &lt; menuItems.length; idx++) {
+    System.out.println(menuItems[idx]);
+}
+</code></pre>
+
+<h3 id="javascript-2">JavaScript</h3>
+
+<pre><code class="language-JavaScript">var menuItems = [ "filet mignon", "escargot", "tacos de pescado" ];
+for (var idx = 0; idx &lt; menuItems.length; idx++) {
+    console.log(menuItems[idx]);
+}
+</code></pre>
 
 
 
@@ -172,7 +216,135 @@ myVariable = 42; // this is valid
 
   <div class="slide">
     <!-- _S9SLIDE_ -->
-<h2 id="also-also-json-creating-objects">Also also JSON (creating objects)</h2>
+<h2 id="iterating-with-foreach">Iterating with forEach</h2>
+
+<h3 id="java-3">Java</h3>
+
+<pre><code class="language-Java">String[] menuItems = { "filet mignon", "escargot", "tacos de pescado" };
+for(String item: menuItems) {
+    System.out.println(item);
+}
+</code></pre>
+
+<h3 id="javascript-3">JavaScript</h3>
+
+<pre><code class="language-JavaScript">var menuItems = [ "filet mignon", "escargot", "tacos de pescado" ];
+menuItems.forEach(function(element) {
+    console.log(element)
+})
+</code></pre>
+
+<p>The function argument to <code>forEach</code> above is known as a <em>callback</em> function. JavaScript focuses on <em>functional</em> programming.</p>
+
+<p>Java’s <code>Collection</code> interface has a similar <code>forEach</code> method (in version 8 and above) for functional programming.</p>
+
+
+
+  </div>
+
+  <div class="slide">
+    <!-- _S9SLIDE_ -->
+<h1 id="javascript-object-notation-json">JavaScript Object Notation (JSON)</h1>
+
+<h3 id="java-classical">Java (classical)</h3>
+
+<pre><code class="language-Java">public class VirtualPet {
+    private int hunger = 0;
+    public void feed() {
+        hunger = hunger-5;
+    }
+    public boolean isHungry() {
+        return hunger &gt;= 30;
+    }
+}
+VirtualPet fido = new VirtualPet();
+</code></pre>
+
+<h3 id="javascript-prototypical">JavaScript (prototypical)</h3>
+
+<pre><code class="language-JavaScript">function VirtualPet() {}; // constructor
+VirtualPet.prototype = {
+    hunger: 20,
+    feed: function() {
+        this.hunger = this.hunger - 5;
+    },
+    isHungry: function() {
+        return this.hunger &gt;= 30;
+    }
+};
+var fido = new VirtualPet();
+</code></pre>
+
+<p><em>Encapsulation</em> in JavaScript is more difficult.</p>
+
+
+
+  </div>
+
+  <div class="slide">
+    <!-- _S9SLIDE_ -->
+<h2 id="also-json---instead-of-maps">Also JSON - instead of Maps</h2>
+
+<h3 id="java-4">Java</h3>
+
+<pre><code class="language-Java">Map&lt;String, String&gt; prices = new HashMap&lt;String, String&gt;();
+prices.put("filet mignon", "34.95");
+prices.put("tacos de pescado", "19.95");
+
+for (Entry&lt;String, String&gt; entry : prices.entrySet()) {
+    System.out.println(entry.getKey() + ": " + entry.getValue());
+}
+</code></pre>
+
+<h3 id="javascript-4">JavaScript</h3>
+
+<pre><code class="language-JavaScript">var prices = {
+    "filet mignon": "34.95",
+    "tacos de pescadot": "19.95"
+};
+
+for (var item in prices) {
+    console.log(item + ": " + prices[item]);
+}
+</code></pre>
+
+
+
+  </div>
+
+  <div class="slide">
+    <!-- _S9SLIDE_ -->
+<h2 id="also-also-json">Also Also JSON</h2>
+
+<p>JavaScript objects are a lot like maps. In our previous example, we were really iterating over the properties of a JavaScript object. Doing this:</p>
+
+<pre><code class="language-JavaScript">function VirtualPet() {}; // constructor
+VirtualPet.prototype = {
+    hunger: 20,
+    feed: function() {
+        this.hunger = this.hunger - 5;
+    }
+};
+var fido = new VirtualPet();
+
+console.log("Fido's hunger before feeding is " + fido.hunger);
+fido.feed();
+
+console.log("After feeding:");
+for (var attr in fido) {
+    console.log(attr + ": " + fido[attr]);
+}
+</code></pre>
+
+<p>will result in:</p>
+
+<pre><code>Fido's hunger before feeding is 20
+After feeding:
+hunger: 15
+feed: function () {
+    this.hunger = this.hunger - 5;
+    }
+</code></pre>
 
   </div>
 
