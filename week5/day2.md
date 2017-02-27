@@ -14,7 +14,7 @@
 
 # Slides
 
-[Intro to CSS](https://docs.google.com/presentation/d/1EGeb4zKiNuZHL10vothQ7mXpGTqYqamkbJpvfzI707o/edit)
+[Intro to CSS](https://docs.google.com/presentation/d/1MT-HL-kGsemA2RJuvhBWS3saKL-oe1TstaeGC5kE5QE/edit?usp=sharing)
 
 # Resources
 
