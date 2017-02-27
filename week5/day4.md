@@ -20,6 +20,7 @@
 
 [Bootstrap](http://getbootstrap.com/getting-started/)
 
+[Codecademy Bootstrap Lessons](https://www.codecademy.com/courses/web-beginner-en-yjvdd/0/1)
 # Homework
 
 Review
