@@ -7,7 +7,7 @@ Write some HTML and CSS, using bootstrap to make a responsive site, given some m
 ## Due
 
 This project is due **Monday, 11/7/2016, at 9:30 AM**.
-[Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSfb_kgqfPLTweD_k1pe_STBFg2rZsnAQ6OgJOREw271gkvnjw/viewform)
+[Submission Link](https://drive.google.com/open?id=1gd3O37Cr-3TTPqmwx-kS5YxkK2wjRV53nwLpGMnXoMc)
 
 ## Tasks
 
