@@ -28,7 +28,7 @@
 	- [w3schools Introduction](https://www.w3schools.com/jquery/jquery_ajax_intro.asp)
 	- [w3schools AJAX tutorial](https://www.w3schools.com/xml/ajax_intro.asp)
 	- [Ajax | jQuery Learning Center](https://learn.jquery.com/ajax/)
-- In-class exercise: [Magic 8-ball](exercises/magic-8-ball.md)
+- In-class exercise: [Magic 8-ball](../exercises/magic-8-ball.md)
 
 ## Thursday
 - GitHub Pages
