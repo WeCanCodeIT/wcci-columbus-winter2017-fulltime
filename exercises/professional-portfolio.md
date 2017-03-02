@@ -44,7 +44,7 @@ Employers may look at your site on a mobile device, so build a responsive layout
     - Create a section/page on your site that lists your GitHub repositories that is populated by accessing the GitHub API via jQuery and AJAX. Establish the structure/layout of your site by building the other sections before doing this part. This section/page should:
         - [ ] Send a GET request to retrieve your basic information (the url will look like `https://api.github.com/users/*your_username*`)
         - [ ] Use the "repos_url" attribute from this response to send another GET request that retrieves information about your repositories.
-        - Populate the repositories based on the response. For each repository, at minimum, display:
+        - Populate a `<div>` (or another element type of your choice) with information for each repository from the response. For each repository display, at minimum:
             - [ ] its name, linking to the repository page ("name" attribute and "html_url" attribute from response)
             - [ ] its last update time ("updated_at" attribute from response)  
         - Create sections/pages with other things from your profile if you like. These can give people insight into your personality/interests. Suggestions:
