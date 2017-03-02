@@ -37,7 +37,11 @@
 
 ## Friday
 
-Project Day: Using the GitHub RESTful API
+Project Day: [Professional Portfolio using the GitHub RESTful API](../professional-portfolio.md)
+
+Please create your repository and set things up sooner rather than later!
+
+Due: Monday, March 6th by 9:30 AM.
 
 [Submission Link TBD](#)
 
