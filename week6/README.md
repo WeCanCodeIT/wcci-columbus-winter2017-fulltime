@@ -37,7 +37,7 @@
 
 ## Friday
 
-Project Day: [Professional Portfolio using the GitHub RESTful API](../professional-portfolio.md)
+Project Day: [Professional Portfolio using the GitHub RESTful API](../exercises/professional-portfolio.md)
 
 Please create your repository and set things up sooner rather than later!
 
