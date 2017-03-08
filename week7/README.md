@@ -9,7 +9,7 @@
 ## Tuesday, March 7th
 
 - Dependency Injection with Spring
-    - Cooking with Spring: Return to the Kitchen
+    - [Cooking with Spring: Return to the Kitchen](https://github.com/WeCanCodeIT/java-spring-cooker)
     - In-class exercise: Return to the Video Store
 
 ### References
