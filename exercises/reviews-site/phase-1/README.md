@@ -43,7 +43,7 @@ Use [Creative Commons Image Search](https://ccsearch.creativecommons.org/) to fi
 
 #### Iteration
 
-We use `th:each` to iterate over collections in Thymeleaf. If I had a collection of called `widgets` in my model, each of these having a `name` attribute, I would do the following to generate a `<div>` for each of these. `widget` is the name of my iteration variable, much like the for each loops you're familar with:
+We use `th:each` to iterate over collections in Thymeleaf. If I had a collection called `widgets` in my model, each of these having a `name` attribute, I would do the following to generate a `<div>` for each of these. `widget` is the name of my iteration variable, much like the for each loops you're familar with:
 
 ```HTML
 <div th:each="widget: ${widgets}" th:text="${widget.name}" />
