@@ -30,3 +30,9 @@
 ## Thursday March 9th
 
 ## Friday, March 10th
+
+Project day: [Reviews Site](../exercises/reviews-site/phase-1)
+
+Please create your repository and set things up sooner rather than later!
+
+Due: Monday, March 13th by 9:30 AM
