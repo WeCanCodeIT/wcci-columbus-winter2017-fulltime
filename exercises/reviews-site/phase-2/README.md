@@ -1,6 +1,6 @@
 # Database-enabling the Reviews Site with JPA and Spring Data
 
-This is a continuation of the [Reviews Site](../phase-1) project. Familiarize yourself with Spring Data/JPA basics with Spring Boot by following using the Spring Getting Started Guide [Accessing Data with JPA](http://spring.io/guides/gs/accessing-data-jpa/) before moving on with this phase of the project. Refer to that guide and our [Spring JPA example repository](https://github.com/wecancodeit/java-spring-jpa-example) for examples as you work through the project.
+This is a continuation of the [Reviews Site](../phase-1) project. Familiarize yourself with Spring Data/JPA basics with Spring Boot by following the Spring Getting Started Guide [Accessing Data with JPA](http://spring.io/guides/gs/accessing-data-jpa/) before moving on with this phase of the project. Refer to that guide and our [Spring JPA example repository](https://github.com/wecancodeit/java-spring-jpa-example) for examples as you work through the project.
 
 ## Enabling JPA
 
@@ -21,11 +21,11 @@ The `Review` class, the core of our model, will become an entity in the JPA/data
 
 Since we'll be retrieving data from our database, we no longer need to manually populate our reviews. Replace your existing `ReviewRepository` class with a `ReviewRepository` interface that extends Spring Data's `CrudRepository` interface.
 
-## Populating The Database
+## Populating the Database
 
 Rather than using a `CommandLineRunner` like the Getting Started Guide, we're going to use a development feature of Hibernate, the JPA implementation used by Spring Data, to populate our database. This allows us to put a file called `import.sql` on the classpath, consisting of sql commands that will be run after JPA creates our tables. You should put this file in your project at `src/main/resources/import.sql`. You can find an example in our [Spring JPA example repository](https://github.com/wecancodeit/java-spring-jpa-example/blob/master/src/main/resources/import.sql).
 
-Use this file to insert reviews, then categories after you've added them.
+Place sql commands into this file to insert reviews.
 
 # Adding Categories for Reviews
 
@@ -41,16 +41,16 @@ A category's relationship with its reviews is a one-to-many relationship. (One c
 
 Each review should have a category, so give the `Review` class a category attribute. This is a many-to-one relationship. (Many reviews for each category.)
 
-## Populating categories
+## Populating Categories
 
 Add/update commands in `import.sql` to:
 
 - add categories
 - assign reviews to categories
 
-## Category templates
+## Category Controller and Templates
 
-Create templates and associated controllers so that a user can see a list all categories, clicking on one to navigate to a list of reviews for that category. Clicking on one of these review titles should open the review.
+Create templates and an associated controller so that a user can see a list of all categories, clicking on one to navigate to a list of reviews for that category. Clicking on one of these review titles should open the review.
 
 # Extensions
 
