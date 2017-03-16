@@ -1,6 +1,6 @@
 # Database-enabling the Reviews Site with JPA and Spring Data
 
-This is a continuation of the (Reviews Site)[../phase-1] project. Familiarize yourself with Spring Data/JPA basics with Spring Boot by following using the Spring Getting Started Guide [Accessing Data with JPA](http://spring.io/guides/gs/accessing-data-jpa/) before moving on with this phase of the project. Refer to that guide and our [Spring JPA example repository](https://github.com/wecancodeit/java-spring-jpa-example) for examples as you work through the project.
+This is a continuation of the [Reviews Site](../phase-1) project. Familiarize yourself with Spring Data/JPA basics with Spring Boot by following using the Spring Getting Started Guide [Accessing Data with JPA](http://spring.io/guides/gs/accessing-data-jpa/) before moving on with this phase of the project. Refer to that guide and our [Spring JPA example repository](https://github.com/wecancodeit/java-spring-jpa-example) for examples as you work through the project.
 
 ## Enabling JPA
 
