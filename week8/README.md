@@ -25,3 +25,7 @@
 
 - Schools of TDD
 - Mockito
+
+## Weekly Project
+
+We will continue our reviews site from last week. [Instructions here](/exercises/reviews-site/phase-2).
