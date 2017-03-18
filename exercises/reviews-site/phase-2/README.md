@@ -43,10 +43,10 @@ Each review should have a category, so give the `Review` class a category attrib
 
 ## Populating Categories
 
-Add/update commands in `import.sql` to:
+Our commands in `import.sql` will need to create categories and assign these categories to reviews. Perform the following tasks in `import.sql`:
 
-- add categories
-- assign reviews to categories
+- Add commands to create categories.
+- Modify the commands used to create review records to assign a category to each review.
 
 ## Category Controller and Templates
 
