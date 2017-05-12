@@ -1,7 +1,7 @@
 
-#Expectations
+# Expectations
 
-##Individual/Self
+## Individual/Self
 
 - Have a working understanding of the week's topics by the end of each week.
 - Keep up in class and follow along.
@@ -22,7 +22,7 @@
     2 Ask your team. (Remember Slack. Questions often benefit everyone.)
     3 Ask your facilitators.
 
-##Team
+## Team
 
 - Be patient.
 - Stand up and say it when you're lost. You're probably not the only one.
@@ -39,7 +39,7 @@
 - Maintain a safe environment.
 - Use Slack more to explain / ask for help / share with the team.
 
-##Instructors
+## Instructors
 
 - Clearly defined lesson plans/materials.
     - Published beforehand and available to students.
